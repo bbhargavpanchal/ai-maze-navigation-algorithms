@@ -61,3 +61,85 @@ Both algorithms are applied to a 5×6 grid maze to find the optimal path from st
     ├── requirements.txt
     └── LICENSE
 
+## 📊 Results
+
+**Bidirectional Search Results**
+
+
+    Path Found: [(0,0), (1,0), (1,1), (1,2), (1,3), (1,4), (1,5), (2,5), (3,5), (4,5)]
+    Total Cost: 9 steps
+    Nodes Explored: Significantly fewer than traditional BFS
+
+**Forward-Chaining Results**
+
+    Path Found: [(0,0), (1,0), (1,1), (1,2), (1,3), (1,4), (1,5), (2,5), (3,5), (4,5)]
+    Total Steps: 9
+    Logical Rules Applied: Successfully navigated using GMP inference
+
+## 🎥 Demonstrations
+
+**Bidirectional Search Visualization**
+
+Show Image
+
+
+The algorithm searches from both ends simultaneously, meeting in the middle
+
+
+**Forward-Chaining Process**
+
+Show Image
+
+Logical inference applied step-by-step to determine valid moves
+
+
+**Algorithm Comparison Video**
+
+🎬 Watch Algorithm Demonstrations
+
+
+
+**🧠 Algorithm Details**
+
+**Bidirectional Search**
+
+    Time Complexity: O(b^(d/2)) where b is branching factor, d is depth
+    Space Complexity: O(b^(d/2))
+    Optimality: Guarantees shortest path
+    Advantage: Reduces search space exponentially
+
+**Forward-Chaining with GMP**
+
+    Reasoning Type: Goal-driven logical inference
+    Knowledge Representation: First-Order Logic (FOL)
+    Inference Method: Generalized Modus Ponens
+    Advantage: Systematic, explainable decision making
+
+**📈 Performance Comparison**
+
+| **Algorithm**        | **Path Length** | **Nodes Explored** | **Time Complexity** | **Memory Usage** |
+| -------------------- | --------------- | ------------------ | ------------------- | ---------------- |
+| Bidirectional Search | 9               | \~15               | O(b^(d/2))          | Medium           |
+| Forward Chaining     | 9               | \~25               | O(rules × facts)    | Low              |
+
+
+
+
+
+
+## **👨‍💻 Author**
+### ***Bhargavkumar Panchal***
+
+GitHub: @bbhargavpanchal
+
+LinkedIn: https://www.linkedin.com/in/bhargavpanchall/
+
+
+
+
+📞 Support
+
+Email: bhargavpanchal5151@gmail.com
+
+
+⭐ If you find this project useful, please consider giving it a star!
