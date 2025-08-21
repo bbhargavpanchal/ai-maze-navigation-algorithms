@@ -69,7 +69,7 @@ Both algorithms are applied to a 5×6 grid maze to find the optimal path from st
 
 **Bidirectional Search Results**
 
-<img width="909" height="939" alt="image" src="https://github.com/user-attachments/assets/e81a1719-892f-4c70-b445-c088151f9cdf" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e81a1719-892f-4c70-b445-c088151f9cdf" />
 
     Path Found: [(0,0), (1,0), (1,1), (1,2), (1,3), (1,4), (1,5), (2,5), (3,5), (4,5)]
     Total Cost: 9 steps
