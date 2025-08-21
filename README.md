@@ -1,6 +1,11 @@
 # AI Maze Navigation: Bidirectional Search & Logical Inference
 
 
+<img width="388" height="226" alt="image" src="https://github.com/user-attachments/assets/ee9cdefb-73af-403f-9789-af1dd75ae982" />
+<img width="909" height="921" alt="image" src="https://github.com/user-attachments/assets/3b0e2e65-5777-4393-9d09-8c1cff8b8644" />
+
+<img width="770" height="862" alt="image" src="https://github.com/user-attachments/assets/1c6de82b-c8cd-44b4-88c1-5b261c1760ac" />
+
 
 ## 📋 Overview
 
@@ -65,12 +70,14 @@ Both algorithms are applied to a 5×6 grid maze to find the optimal path from st
 
 **Bidirectional Search Results**
 
+<img width="909" height="939" alt="image" src="https://github.com/user-attachments/assets/e81a1719-892f-4c70-b445-c088151f9cdf" />
 
     Path Found: [(0,0), (1,0), (1,1), (1,2), (1,3), (1,4), (1,5), (2,5), (3,5), (4,5)]
     Total Cost: 9 steps
     Nodes Explored: Significantly fewer than traditional BFS
 
 **Forward-Chaining Results**
+
 
     Path Found: [(0,0), (1,0), (1,1), (1,2), (1,3), (1,4), (1,5), (2,5), (3,5), (4,5)]
     Total Steps: 9
@@ -80,7 +87,7 @@ Both algorithms are applied to a 5×6 grid maze to find the optimal path from st
 
 **Bidirectional Search Visualization**
 
-Show Image
+![1 - Made with Clipchamp (2)](https://github.com/user-attachments/assets/1155562c-fe85-42d2-ac3b-8b0536ead9ff)
 
 
 The algorithm searches from both ends simultaneously, meeting in the middle
@@ -88,14 +95,11 @@ The algorithm searches from both ends simultaneously, meeting in the middle
 
 **Forward-Chaining Process**
 
-Show Image
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/b7b2d28f-3630-48a3-acb3-e048eeb0df34)
+
 
 Logical inference applied step-by-step to determine valid moves
 
-
-**Algorithm Comparison Video**
-
-🎬 Watch Algorithm Demonstrations
 
 
 
