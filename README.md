@@ -1,5 +1,4 @@
-#AI Maze Navigation: Bidirectional Search & Logical Inference
-
+# AI Maze Navigation: Bidirectional Search & Logical Inference
 
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/3b0e2e65-5777-4393-9d09-8c1cff8b8644" />
