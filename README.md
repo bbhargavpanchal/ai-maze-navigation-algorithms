@@ -1,9 +1,9 @@
-#<img width="500" height="506" alt="1" src="https://github.com/user-attachments/assets/13171336-42cd-46a8-b1db-9c88f9b42b2a" />
+#
  AI Maze Navigation: Bidirectional Search & Logical Inference
 
 
-<img width="388" height="226" alt="image" src="https://github.com/user-attachments/assets/ee9cdefb-73af-403f-9789-af1dd75ae982" />
-<img width="909" height="921" alt="image" src="https://github.com/user-attachments/assets/3b0e2e65-5777-4393-9d09-8c1cff8b8644" />
+<img width="388" height="250" alt="image" src="https://github.com/user-attachments/assets/ee9cdefb-73af-403f-9789-af1dd75ae982" />
+<img width="388" height="250" alt="image" src="https://github.com/user-attachments/assets/3b0e2e65-5777-4393-9d09-8c1cff8b8644" />
 
 <img width="770" height="862" alt="image" src="https://github.com/user-attachments/assets/1c6de82b-c8cd-44b4-88c1-5b261c1760ac" />
 
